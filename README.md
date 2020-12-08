@@ -1,3 +1,3 @@
 # Gender Classification From Twitter Data
 
-## Emi Kong (), Ishana Narayanan (ishana-narayanan), Jacqueline Zhang ()
+## Emi Kong (ehkong4), Ishana Narayanan (ishana-narayanan), Jacqueline Zhang ()
